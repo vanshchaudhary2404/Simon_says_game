@@ -3,6 +3,7 @@
    - Developed game logic with random sequence generation and highest score tracking for an 
      enhanced  gaming  experience.
    - Integrated event listeners to enable seamless real-time interaction
+   - Logic building project
 
 ## Tech used 
    - HTML
